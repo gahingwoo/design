@@ -1,0 +1,8 @@
+{
+  "name": "gahingwoo-wallpaper-src",
+  "private": true,
+  "description": "Font dependency for the wallpaper renderer (JetBrains Mono ExtraBold is embedded into every SVG).",
+  "dependencies": {
+    "@fontsource/jetbrains-mono": "^5.0.0"
+  }
+}
